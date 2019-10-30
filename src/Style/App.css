@@ -10,22 +10,26 @@
 
 .flex-item-0{
   order: 0;
-  flex: 2;
-  background-image:url('../src/images/summer_sunset.jpg');
-  height: 100vh;
+  background-image:url('../images/summer_sunset.jpg');
   width: 100vw;
+  height: 100vh;
+  background-size: cover;
 }
 .flex-item-0 h1 {
   text-align: center;
-  padding-right: 100px;
+  padding-top: 100px;
   color:rgb(255, 255, 255);
   font-family: serif;
   font-size: 80px;
+  transform:translateY(y);
 }
 
 .flex-item-1 {
   order: 1;
-  flex: 2;
+  background-image:url('../images/boardwalk.jpg');
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
 }
 
 
@@ -36,17 +40,7 @@
 }
 
 
-.flex-item-0 img {
 
-  height: 80%;
-  width: 100%;
-} 
-
-.flex-item-1 img {
-
-  height: 80%;
-  width: 100%;
-} 
 
 .flex-item-2 img {
 

@@ -1,8 +1,8 @@
 import React from 'react';
 import bottom from '../src/images/bottom.jpg';
-import backGround3 from '../src/images/boardwalk.jpg';
 import useScrolInfo from './Components/useScrollInfo';
-import './App.css';
+import './Style/App.css';
+import './Style/Profile.css';
 
 
 
@@ -16,21 +16,30 @@ function App() {
           <li><a href="#news">News</a></li>
           <li><a href="#contact">Contact</a></li>
           <li><a href="#about">About</a></li>
-          <li><a href="#infor">{useScrolInfo()}</a></li>
         </ul>
       </div>
       <div className="flex-item-0" >
-        
-          <h1>Welcome</h1>
-          
-        
-        
-       
+
+        <h1>Welcome</h1>
+        {<useScrolInfo />}
+
+
+
       </div>
 
       <div className="flex-item-1">
+        <div className="Propic" >
+        <figure class="snip1515">
+          <div class="profile-image"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sample83.jpg" alt="sample83" /></div>
+          <figcaption>
+            <h3>Norman Gordon</h3>
+            <h4>Web Designer</h4>
+            <p>I'm killing time while I wait for life to shower me with meaning and happiness.</p>
+          </figcaption>
+        </figure>
+        </div>
 
-        <img src={backGround3} alt="backGround2" />
+
       </div>
 
       <div className="flex-item-2">
