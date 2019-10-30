@@ -1,5 +1,5 @@
 {
-"homepage": "http://Keivon.github.io/portfolio", 
+  "homepage": "http://Keivon.github.io/portfolio",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -13,9 +13,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -33,6 +32,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "css-loader": "^3.2.0",
+    "gh-pages": "^2.1.1",
+    "style-loader": "^1.0.0"
   }
 }
