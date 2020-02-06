@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9cb26c56cabd46936fbc4f4563911aa",
+    "revision": "4603505bee25ca4b8382c5464583d97c",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "e1e63a225989bc018b23",
-    "url": "/portfolio/static/css/main.6df90f19.chunk.css"
+    "revision": "1586c492c61ba6009a6f",
+    "url": "/portfolio/static/css/main.b1b28188.chunk.css"
   },
   {
-    "revision": "83ee152630c1b38eb319",
-    "url": "/portfolio/static/js/2.f6e9000d.chunk.js"
+    "revision": "1de356dfe51fb3317b1e",
+    "url": "/portfolio/static/js/2.a78e8712.chunk.js"
   },
   {
-    "revision": "e1e63a225989bc018b23",
-    "url": "/portfolio/static/js/main.6a3dd91b.chunk.js"
+    "revision": "1586c492c61ba6009a6f",
+    "url": "/portfolio/static/js/main.e9b2752a.chunk.js"
   },
   {
     "revision": "e8aab94e553ef1acd8d3",
     "url": "/portfolio/static/js/runtime~main.e9a507a1.js"
+  },
+  {
+    "revision": "e61f01df835b5235c644c16660c48d4f",
+    "url": "/portfolio/static/media/Car_Rental.e61f01df.png"
   },
   {
     "revision": "3c17b4a9bfd0604216e41af5dcbee588",
