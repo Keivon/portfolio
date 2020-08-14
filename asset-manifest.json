@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b1b28188.chunk.css",
-    "main.js": "/portfolio/static/js/main.5859bed1.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.5859bed1.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.d9c2ca4a.chunk.css",
+    "main.js": "/portfolio/static/js/main.1e7a461c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1e7a461c.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.e9a507a1.js",
     "runtime~main.js.map": "/portfolio/static/js/runtime~main.e9a507a1.js.map",
-    "static/js/2.a78e8712.chunk.js": "/portfolio/static/js/2.a78e8712.chunk.js",
-    "static/js/2.a78e8712.chunk.js.map": "/portfolio/static/js/2.a78e8712.chunk.js.map",
+    "static/js/2.3678910a.chunk.js": "/portfolio/static/js/2.3678910a.chunk.js",
+    "static/js/2.3678910a.chunk.js.map": "/portfolio/static/js/2.3678910a.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.a3a3fe016cce11d7437c5611fdf39251.js": "/portfolio/precache-manifest.a3a3fe016cce11d7437c5611fdf39251.js",
+    "precache-manifest.cfcd157af927befee9497f17dd279585.js": "/portfolio/precache-manifest.cfcd157af927befee9497f17dd279585.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.b1b28188.chunk.css.map": "/portfolio/static/css/main.b1b28188.chunk.css.map",
+    "static/css/main.d9c2ca4a.chunk.css.map": "/portfolio/static/css/main.d9c2ca4a.chunk.css.map",
     "static/media/Car_Rental.png": "/portfolio/static/media/Car_Rental.e61f01df.png",
     "static/media/ProgrAmateur.png": "/portfolio/static/media/ProgrAmateur.3c17b4a9.png",
-    "static/media/App.css": "/portfolio/static/media/sunset-waters.70d49b23.jpg",
     "static/media/code-snippets.png": "/portfolio/static/media/code-snippets.7fbd1a6b.png",
-    "static/media/keivon_cp.jpg": "/portfolio/static/media/keivon_cp.c165fa4b.jpg"
+    "static/media/keivon_cp.jpg": "/portfolio/static/media/keivon_cp.c165fa4b.jpg",
+    "static/media/tranfer.png": "/portfolio/static/media/tranfer.431e3f4b.png",
+    "static/media/weather.png": "/portfolio/static/media/weather.994d11a1.png"
   }
 }
