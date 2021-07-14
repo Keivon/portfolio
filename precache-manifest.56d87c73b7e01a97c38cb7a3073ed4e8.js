@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09840ff5feec6e91c561fd2dcfca0798",
+    "revision": "48eede0b6b8b6c0405bdd73fa700fd2f",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "c1c4d02fb6c26b5e054c",
-    "url": "/portfolio/static/css/main.90cb1d65.chunk.css"
+    "revision": "d0fe0431b40708c5efac",
+    "url": "/portfolio/static/css/main.c3b1ab71.chunk.css"
   },
   {
-    "revision": "2f9baa6e792a8d7ef339",
-    "url": "/portfolio/static/js/2.ff0f0368.chunk.js"
+    "revision": "e0dab2d59a676692de68",
+    "url": "/portfolio/static/js/2.3678910a.chunk.js"
   },
   {
-    "revision": "c1c4d02fb6c26b5e054c",
-    "url": "/portfolio/static/js/main.56bf38c4.chunk.js"
+    "revision": "d0fe0431b40708c5efac",
+    "url": "/portfolio/static/js/main.491f0a71.chunk.js"
   },
   {
     "revision": "e8aab94e553ef1acd8d3",
     "url": "/portfolio/static/js/runtime~main.e9a507a1.js"
+  },
+  {
+    "revision": "cbb11302bf33c136868165c1ea87d8c1",
+    "url": "/portfolio/static/media/C-T logo.cbb11302.png"
   },
   {
     "revision": "e61f01df835b5235c644c16660c48d4f",
